@@ -1,0 +1,1 @@
+csc SQLi.cs DataBase.cs Table.cs Relation.cs SQLParser.cs TransitionFunction.cs DatabaseAction.cs SyntaxException.cs
